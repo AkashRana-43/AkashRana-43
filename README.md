@@ -1,4 +1,4 @@
-👋 Hello there! I'm Akash, a passionate software engineering enthusiast currently in the final semester of my Master's in Technology  program, specializing in Software Engineering. With an insatiable curiosity for coding and emerging technologies, I'm constantly on the lookout for new challenges and opportunities to expand my knowledge.
+👋 Hello there! I'm Akash, a passionate software engineering enthusiast recently pursued my Master's in Technology  program, specializing in Software Engineering. With an insatiable curiosity for coding and emerging technologies, I'm constantly on the lookout for new challenges and opportunities to expand my knowledge.
 
 💻 My journey in the world of programming has been fueled by my love for JavaScript. I'm proficient in leveraging these languages to build dynamic and interactive web applications. In particular, I have hands-on experience with popular libraries like React.js for crafting intuitive user interfaces and Express.js framework for building robust server-side applications.
 
